@@ -24,7 +24,7 @@ ResultSet resultSet = null;
 <%
 try{ 
 Connection con=DriverManager.getConnection(  
-"jdbc:oracle:thin:@localhost:1521:xe","sanath","it");  
+"jdbc:oracle:thin:@localhost:1521:xe","mouli","it");  
 statement=con.createStatement();
 String sql ="SELECT expe FROM jobex where compname='" + cin + "'";
 resultSet = statement.executeQuery(sql);
