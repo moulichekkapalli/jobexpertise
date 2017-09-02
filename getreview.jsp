@@ -18,9 +18,7 @@
                         <th colspan="2">GIVE YOUR EXPERIENCE</th>
                     </tr>
                 </thead>
-				<tr>
-					
-					</tr>
+			
                 <tbody>
                     <tr>
                         <td>NAME</td>
